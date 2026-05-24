@@ -1,6 +1,7 @@
 streamlit
 streamlit-mic-recorder
 zhipuai
-edge-tts 
- 
- 
+edge-tts
+httpx
+pydantic
+openai 
